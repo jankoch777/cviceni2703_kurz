@@ -1,2 +1,2 @@
 # cviceni2703_kurz
-TBD
+TBD = othle chtel pepa
