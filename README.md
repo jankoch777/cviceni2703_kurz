@@ -1,2 +1,2 @@
 # cviceni2703_kurz
-TBD
+TBD : tohle chci ja
