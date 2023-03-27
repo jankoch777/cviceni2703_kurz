@@ -1,2 +1,2 @@
 # cviceni2703_kurz
-TBD = othle chtel pepa
+TBD = tohle chtel pepa i ja 
